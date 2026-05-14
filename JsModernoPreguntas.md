@@ -64,7 +64,7 @@ console.log(crearLibro("El Principito", "Saint-Exupéry", 1943));
 // { titulo: "El Principito", autor: "Saint-Exupéry", año: 1943 }
 
 console.log(crearLibro("1984"));
-// { titulo: "1984", autor: "Anónimo", año: 2025 }
+// { titulo: "1984", autor: "Anónimo", año: 2026 }
 ```
 
 ### Ejercicio 4 – Rest operator: agrupar en una función variádica
